@@ -1,3 +1,12 @@
+# Attention!!!
+
+this branch contains code modified to support Logback, not log4j.
+Readme will be modified accordingly later.
+
+
+
+
+
 Airbrake Java
 =============
 
